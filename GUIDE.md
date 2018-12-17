@@ -25,7 +25,7 @@ Address the user as ‘you’ where possible. Content on the site often makes a 
 Use 'and' rather than &, unless it’s a department’s logo image or a company’s name as it appears on the Companies House register.
 
 **area**  
-Use location unless referring to a 'flood warning area' or 'flood alert area'
+Use 'location' unless referring to a 'flood warning area' or 'flood alert area'
 
 **Atlantic**  
 Capitalised
@@ -61,7 +61,7 @@ Always use lower case, even in page titles. The exceptions to this are proper no
 * names of groups, directorates and organisations: Knowledge and Innovation Group
 
 **catchment**  
-Lower case
+Lower case unless at beginning of sentence
 
 **chart datum**  
 Lower case unless at beginning of sentence
