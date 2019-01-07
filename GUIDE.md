@@ -31,7 +31,7 @@ Please do not say “anymore” any more
 Use 'location' unless referring to a 'flood warning area' or 'flood alert area'
 
 **around**
-'Abou't or 'approximately' are better, e.g. “about £1m” or “approximately 2,000 properties”.
+'About' or 'approximately' are better, e.g. “about £1m” or “approximately 2,000 properties”.
 
 **Atlantic**  
 Capitalised
