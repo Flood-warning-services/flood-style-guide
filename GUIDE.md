@@ -22,15 +22,33 @@ Use the active rather than passive voice. This will help us write concise, clear
 Address the user as ‘you’ where possible. Content on the site often makes a direct appeal to citizens and businesses to get involved or take action: ‘You can contact the Environment Agency by phone and email’ for example.
 
 **Ampersand**  
-Use 'and' rather than &, unless it’s a department’s logo image or a company’s name as it appears on the Companies House register.
+Use 'and' rather than &, unless it’s used in company names when the company does: Johnson & Johnson, Marks & Spencer, P&O, etc.
+
+**any more**
+Please do not say “anymore” any more
 
 **area**  
 Use 'location' unless referring to a 'flood warning area' or 'flood alert area'
+
+**around**
+'Abou't or 'approximately' are better, e.g. “about £1m” or “approximately 2,000 properties”.
 
 **Atlantic**  
 Capitalised
 
 ## B<a name="B"></a>
+
+**basically**
+This word is unnecessary, basically.
+
+**both**
+Unnecessary in most phrases that contain “and”; “both men and women” says no more than “men and women”, takes longer, and can also be ambiguous.
+
+**brackets**
+If the sentence is logically and grammatically complete without the information contained within the parentheses (round brackets), the punctuation stays outside the brackets. (A complete sentence that stands alone in parentheses starts with a capital letter and ends with a stop.)
+
+**bridges**
+Use initial capitals, eg Golden Gate Bridge, Waterloo Bridge
 
 **business**  
 Use 'property' instead
