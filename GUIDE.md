@@ -24,7 +24,7 @@ Address the user as ‘you’ where possible. Content on the site often makes a 
 **Ampersand**  
 Use 'and' rather than &, unless it’s used in company names when the company does: Johnson & Johnson, Marks & Spencer, P&O, etc.
 
-**any more**
+**any more**  
 Please do not say “anymore” any more
 
 **area**  
@@ -38,16 +38,16 @@ Capitalised
 
 ## B<a name="B"></a>
 
-**basically**
+**basically**  
 This word is unnecessary, basically.
 
-**both**
+**both**  
 Unnecessary in most phrases that contain “and”; “both men and women” says no more than “men and women”, takes longer, and can also be ambiguous.
 
-**brackets**
+**brackets**  
 If the sentence is logically and grammatically complete without the information contained within the parentheses (round brackets), the punctuation stays outside the brackets. (A complete sentence that stands alone in parentheses starts with a capital letter and ends with a stop.)
 
-**bridges**
+**bridges**  
 Use initial capitals, eg Golden Gate Bridge, Waterloo Bridge
 
 **business**  
