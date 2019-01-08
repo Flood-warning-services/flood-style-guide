@@ -322,7 +322,7 @@ Midnight is the first minute of the day, not the last. You should consider using
 ## U<a name="U"></a>
 
 **URLs**  
-Include full address including 'https://'
+Include full address including 'https://' unless on printed material when the 'https://' and trailing '/' can be removed
 
 ## V<a name="V"></a>
 
@@ -349,10 +349,3 @@ Not '5DF' or '5 Day Flood Risk'
 
 **/**  
 Avoid using the '/' symbol in message content and names as this can create issues with text to speech software
-
-
-
-
-
-
-
