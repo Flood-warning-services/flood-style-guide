@@ -1,4 +1,4 @@
-# Markdown document
+# Markdown document with a conflict
 
 <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
